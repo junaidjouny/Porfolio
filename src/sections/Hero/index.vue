@@ -22,7 +22,7 @@
                             ></vue-typer>
                             </span>
                         </h2>
-                        <p class="text-whie w-5/6 mt-5 text-lg">I'm a Freelance UI/UX Designer and Developer based in Gilgit, Pakistan. I strives to build immersive and beautiful web applications through carefully crafted code and user-centric design.</p>
+                        <p class="text-whie w-5/6 mt-5 text-lg">I'm a Freelancer UI/UX Designer and Developer based in Gilgit, Pakistan. I strives to build immersive and beautiful web applications through carefully crafted code and user-centric design.</p>
                         <div class="flex flex-wrap">
                             <Button className="bg-primary-100 hover:bg-secondary mt-8 mr-5" :onClick="() => this.$router.push('/about')">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
